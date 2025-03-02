@@ -5,7 +5,6 @@ import 'screens/input_screen.dart';
 
 void main() {
   Get.put(NICController());
-  
   runApp(const MyApp());
 }
 
